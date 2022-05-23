@@ -1,5 +1,5 @@
 # 90DaysOfDSA
-Starting 90 Days of DSA Challenge on 23 May
+Starting 90 Days of DSA Challenge on June 5
 
 Using Path
 https://whimsical.com/dsa-in-90-days-EmPkf5utoFGRMnRqJjM6YV
