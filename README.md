@@ -9,7 +9,7 @@ Day 1: Understand the concept of Algorithmic complexity. Skip the theory for now
 
 Day 2 - 10: Let’s start with some simple data structures,
 
-[.]Arrays
+- [ ] Arrays
 Strings
 Linked Lists
 Stacks
