@@ -3,14 +3,16 @@ Starting 100 Days of DSA Challenge
 
 Using Path
 
-Day  −∞  to 0: Learning Java
+Day  −∞  to 0:  
+- [x] Learning Java
 
-Day 1: Understand the concept of Algorithmic complexity. Skip the theory for now, but for every piece of code you write, you should be able to derive both time and space complexity.
+Day 1:   
+- [x] Understand the concept of Algorithmic complexity. Skip the theory for now, but for every piece of code you write, you should be able to derive both time and space complexity.
 
 Day 2 - 10: Let’s start with some simple data structures,
 
-- [ ] Arrays  
-- [ ] Strings  
+- [x] Arrays  
+- [x] Strings  
 - [ ] Linked Lists  
 - [ ] Stacks  
 - [ ] Queues  
