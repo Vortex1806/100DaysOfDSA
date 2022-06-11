@@ -9,9 +9,9 @@ Day 1: Understand the concept of Algorithmic complexity. Skip the theory for now
 
 Day 2 - 10: Let’s start with some simple data structures,
 
-Arrays
-Linked Lists
+[.]Arrays
 Strings
+Linked Lists
 Stacks
 Queues
 Understand their basic operations (insert, delete, search, traversal) and their complexity - Big-O Algorithm Complexity Cheat Sheet, and code them all.
